@@ -1,0 +1,90 @@
+
+Available Platform Vendor (0): Advanced Micro Devices, Inc.
+Device 0 Fiji Device ID is 17440688
+Device 1 Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz Device ID is 17499184
+
+
+Available Platform Vendor (1): Intel(R) Corporation
+Device 0 Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz Device ID is 17568192
+
+
+Selected Platform Vendor: Advanced Micro Devices, Inc. 
+Profile: FULL_PROFILE 
+Version: OpenCL 2.0 AMD-APP (2117.9) 
+
+Device: Fiji
+Version: OpenCL 1.2 AMD-APP (2117.9)
+Adress Bits: 32
+Extensions: cl_khr_fp64 cl_amd_fp64 cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_fp16 cl_khr_gl_sharing cl_amd_device_attribute_query cl_amd_vec3 cl_amd_printf cl_amd_media_ops cl_amd_media_ops2 cl_amd_popcnt cl_khr_d3d10_sharing cl_khr_d3d11_sharing cl_khr_dx9_media_sharing cl_khr_image2d_from_buffer cl_khr_spir cl_khr_gl_event cl_amd_liquid_flash 
+Global Cache Size: 16384
+Cache Line: 64
+Local Memory Size: 32768
+Max Work Group Size: 256
+Max Work Item Sizes: [256,256,256]
+Max Image Width: 16384
+
+Kernel PrefixSum Max Work Group Size: 128  Compile Work Group Size: [128,1,1]  Local Memory Size: 2048
+   0 :    0    1    2    3    4    1    2    3
+   8 :    4    5    6    7    8    1    2    3
+  16 :    4    9   10   11   12    5    6    7
+  24 :    8    5    6    7    8    1    2    3
+  32 :    4   13   14   15   16    9   10   11
+  40 :   12    9   10   11   12    5    6    7
+  48 :    8    9   10   11   12    5    6    7
+  56 :    8    5    6    7    8    1    2    3
+  64 :    4   17   18   19   20   13   14   15
+  72 :   16   13   14   15   16    9   10   11
+  80 :   12   13   14   15   16    9   10   11
+  88 :   12    9   10   11   12    5    6    7
+  96 :    8   13   14   15   16    9   10   11
+ 104 :   12    9   10   11   12    5    6    7
+ 112 :    8    9   10   11   12    5    6    7
+ 120 :    8    5    6    7    8    1    2    3
+ 128 :    4   25   26   27   28   21   22   23
+ 136 :   24   21   22   23   24   17   18   19
+ 144 :   20   21   22   23   24   17   18   19
+ 152 :   20   17   18   19   20   13   14   15
+ 160 :   16   21   22   23   24   17   18   19
+ 168 :   20   17   18   19   20   13   14   15
+ 176 :   16   17   18   19   20   13   14   15
+ 184 :   16   13   14   15   16    9   10   11
+ 192 :   12   21   22   23   24   17   18   19
+ 200 :   20   17   18   19   20   13   14   15
+ 208 :   16   17   18   19   20   13   14   15
+ 216 :   16   13   14   15   16    9   10   11
+ 224 :   12   17   18   19   20   13   14   15
+ 232 :   16   13   14   15   16    9   10   11
+ 240 :   12   13   14   15   16    9   10   11
+ 248 :   12    9   10   11   12    5    6    7
+ 256 :    8    0    0    0    0    0    0    0
+ 264 :    0    0    0    0    0    0    0    0
+ 272 :    0    0    0    0    0    0    0    0
+ 280 :    0    0    0    0    0    0    0    0
+ 288 :    0    0    0    0    0    0    0    0
+ 296 :    0    0    0    0    0    0    0    0
+ 304 :    0    0    0    0    0    0    0    0
+ 312 :    0    0    0    0    0    0    0    0
+ 320 :    0    0    0    0    0    0    0    0
+ 328 :    0    0    0    0    0    0    0    0
+ 336 :    0    0    0    0    0    0    0    0
+ 344 :    0    0    0    0    0    0    0    0
+ 352 :    0    0    0    0    0    0    0    0
+ 360 :    0    0    0    0    0    0    0    0
+ 368 :    0    0    0    0    0    0    0    0
+ 376 :    0    0    0    0    0    0    0    0
+ 384 :    0    0    0    0    0    0    0    0
+ 392 :    0    0    0    0    0    0    0    0
+ 400 :    0    0    0    0    0    0    0    0
+ 408 :    0    0    0    0    0    0    0    0
+ 416 :    0    0    0    0    0    0    0    0
+ 424 :    0    0    0    0    0    0    0    0
+ 432 :    0    0    0    0    0    0    0    0
+ 440 :    0    0    0    0    0    0    0    0
+ 448 :    0    0    0    0    0    0    0    0
+ 456 :    0    0    0    0    0    0    0    0
+ 464 :    0    0    0    0    0    0    0    0
+ 472 :    0    0    0    0    0    0    0    0
+ 480 :    0    0    0    0    0    0    0    0
+ 488 :    0    0    0    0    0    0    0    0
+ 496 :    0    0    0    0    0    0    0    0
+ 504 :    0    0    0    0    0    0    0    0
